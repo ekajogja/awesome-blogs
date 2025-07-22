@@ -110,6 +110,10 @@ The goal of this list is to help you discover inspiring reads and broaden your p
     _Advice and insights on content marketing, copywriting, and online business._
 * **Ann Handley (MarketingProfs)** - [annhandley.com](https://annhandley.com/)
     _Practical tips and inspiration for better writing and content creation in marketing._
+* **The Write Life (Writer's Digest)** - [writersdigest.com/write-life](https://www.google.com/search?q=https://www.writersdigest.com/write-life)
+    *Tips, advice, and inspiration for writers of all genres and experience levels.*
+* **Grammarly Blog** - [grammarly.com/blog](https://www.grammarly.com/blog/)
+    *Covers writing tips, grammar rules, and communication advice for various contexts.*
 
 ---
 
