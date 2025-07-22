@@ -78,6 +78,12 @@ The goal of this list is to help you discover inspiring reads and broaden your p
     _Short, insightful posts on creativity, art, and living a creative life._
 * **UX Planet** - [uxplanet.org](https://uxplanet.org/)
     _Practical articles and guides on user experience (UX) design and research._
+* **Nielsen Norman Group (NN/g)** - [nngroup.com/articles](https://www.nngroup.com/articles/)
+    *Research-backed articles on user experience (UX) design, usability, and human-computer interaction.*
+* **Smashing Magazine** - [smashingmagazine.com](https://www.smashingmagazine.com/)
+    *Comprehensive articles on web design, development, and user experience, often in-depth.*
+* **The Creative Independent** - [thecreativeindependent.com](https://thecreativeindependent.com/)
+    *Interviews and advice from artists on how to sustain a creative practice.*
 
 ---
 
