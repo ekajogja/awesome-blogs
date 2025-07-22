@@ -27,6 +27,14 @@ The goal of this list is to help you discover inspiring reads and broaden your p
     _Deep dives into the strategy and business of technology and media._
 * **Lenny's Newsletter** - [lennysnewsletter.com](https://www.lennysnewsletter.com/)
     _Insights on product, growth, and career advice for tech professionals._
+* **WaitWhat (podcast blog)** - [waitwhat.com/insights](https://www.google.com/search?q=https://www.waitwhat.com/insights)
+    *Essays on future trends, media, and the creator economy from the producers of influential podcasts.*
+* **Both Sides of the Table (Mark Suster)** - [bothsidesofthetable.com](https://bothsidesofthetable.com/)
+    *Insights on startups, venture capital, and technology from an experienced entrepreneur and investor.*
+* **CB Insights Blog** - [cbinsights.com/research](https://www.cbinsights.com/research/)
+    *Data-driven analysis and insights on emerging technologies, industries, and venture capital.*
+* **Andrew Chen (Andreessen Horowitz)** - [andrewchen.com](https://andrewchen.com/)
+    *Deep dives into growth, marketplaces, and mobile products from a prominent venture capitalist.*
 
 ---
 
@@ -38,6 +46,7 @@ The goal of this list is to help you discover inspiring reads and broaden your p
     _Mental models and frameworks for better decision-making and lifelong learning._
 * **Asian Efficiency** - [asianefficiency.com/blog/](https://asianefficiency.com/blog/)
     _Practical tips and systems for personal productivity and time management._
+
 
 ---
 
