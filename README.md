@@ -46,7 +46,10 @@ The goal of this list is to help you discover inspiring reads and broaden your p
     _Mental models and frameworks for better decision-making and lifelong learning._
 * **Asian Efficiency** - [asianefficiency.com/blog/](https://asianefficiency.com/blog/)
     _Practical tips and systems for personal productivity and time management._
-
+* **Lifehacker** - [lifehacker.com](https://lifehacker.com/)
+    *Practical tips and tricks for making life easier and more productive across various aspects.*
+* **Cal Newport** - [calnewport.com/blog](https://www.calnewport.com/blog/)
+    *Explorations of deep work, focus, and digital minimalism for a more intentional life.*
 
 ---
 
