@@ -123,6 +123,10 @@ The goal of this list is to help you discover inspiring reads and broaden your p
     _Thought-provoking essays on money, psychology, and the history of finance._
 * **Of Dollars And Data** - [ofdollarsanddata.com](https://ofdollarsanddata.com/)
     _Data-driven insights into personal finance, investing, and economic trends._
+* **The Simple Dollar** - [tautan mencurigakan telah dihapus]
+    *Practical advice and actionable strategies for personal finance, budgeting, and debt management.*
+* **A Wealth of Common Sense (Ben Carlson)** - [awealthofcommonsense.com](https://awealthofcommonsense.com/)
+    *Clear and straightforward insights on investing, personal finance, and market behavior.*
 
 ---
 
