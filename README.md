@@ -95,6 +95,12 @@ The goal of this list is to help you discover inspiring reads and broaden your p
     _Unfiltered self-help and life advice delivered with a no-nonsense approach._
 * **The Daily Stoic (Ryan Holiday)** - [dailystoic.com](https://dailystoic.com/)
     _Daily wisdom from ancient Stoic philosophy applied to modern life._
+* **Zen Habits (Leo Babauta)** - [zenhabits.net](https://zenhabits.net/)
+    *Simple advice on mindfulness, living intentionally, and decluttering your life and mind.*
+* **Brain Pickings (now The Marginalian, but old content is still relevant)** - [www.brainpickings.org](https://www.brainpickings.org/)
+    *(Renamed to The Marginalian) A treasure trove of cross-disciplinary insights on art, science, philosophy, and history.*
+* **Becoming Minimalist** - [becomingminimalist.com](https://www.becomingminimalist.com/)
+    *Encourages living with less to find more freedom and purpose in life.*
 
 ---
 
